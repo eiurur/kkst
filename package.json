@@ -10,7 +10,8 @@
     "dev": "concurrently --kill-others \"npm run watch\" \"npm run node:watch\"",
     "start": "node build/index.js",
     "test": "ava -v -T=2m -C test/**",
-    "lint": "eslint src/** --ext .js -c .eslintrc || true"
+    "lint": "eslint src/** --ext .js -c .eslintrc || true",
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
