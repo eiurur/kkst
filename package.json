@@ -1,6 +1,6 @@
 {
   "name": "kkst",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "scribble code for node.js ",
   "main": "./build/index.js",
   "scripts": {
