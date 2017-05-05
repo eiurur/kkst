@@ -1,7 +1,7 @@
 {
     "extends": [
         "standard",
-        "prettier",
+        "prettier"
     ],
     "plugins": [
         "standard",
@@ -9,6 +9,8 @@
         "prettier"
     ],
     "rules": {
-      "space-before-function-paren": ["error", "never"]
+      "space-before-function-paren": ["error", "never"],
+      "quotes": ["error", "single"],
+      "semi": ["error"]
     }
 }
