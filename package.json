@@ -9,7 +9,7 @@
     "test": "ava -v -T=2m -C test/*.spec.js",
     "test:watch": "ava -v -w -T=2m -C test/*.spec.js",
     "lint": "eslint src/** --ext .js -c .eslintrc || true",
-    "prepush": "lint-staged",
+    "precommit": "lint-staged",
     "prepublish": "npm run build"
   },
   "repository": {
