@@ -1,10 +1,14 @@
 {
-    "extends": "standard",
+    "extends": [
+        "standard",
+        "prettier",
+    ],
     "plugins": [
         "standard",
-        "promise"
+        "promise",
+        "prettier"
     ],
     "rules": {
-      "space-before-function-paren": ["error", "never"],
+      "space-before-function-paren": ["error", "never"]
     }
 }
