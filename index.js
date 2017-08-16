@@ -1,3 +1,3 @@
 module.exports = {
-  Calc: require('./lib/Calc')
-}
+  Calc: require("./lib/Calc")
+};
