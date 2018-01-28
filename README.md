@@ -8,29 +8,25 @@ kkst
 
 scribble code.
 
-# Required
-
-- <a href="https://github.com/yarnpkg/yarn" target="_blank">yarn</a>
-
 # Setup
 
     git clone https://github.com/eiurur/kkst.git <project_name>
     cd <project_name>
-    yarn install
+    npm install
 
 # Usage
 
 ### Run
 
-    yarn start
+    npm start
 
 ### Development
 
-    yarn dev
+    npm run dev
 
 ### Test
 
-    yarn test
+    npm test
 
 # License
 
