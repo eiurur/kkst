@@ -1,6 +1,6 @@
 # kkst
 
-[![Build Status](https://travis-ci.org/eiurur/kkst.svg?branch=master)](https://travis-ci.org/eiurur/kkst)
+[![Build Status](https://travis-ci.com/eiurur/kkst.svg?branch=master)](https://travis-ci.com/eiurur/kkst)
 
 scribble code.
 
