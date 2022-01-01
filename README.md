@@ -1,6 +1,6 @@
 # kkst
 
-[![Build Status](https://travis-ci.com/eiurur/kkst.svg?branch=master)](https://travis-ci.com/eiurur/kkst)
+[![Node.js CI](https://github.com/eiurur/kkst/actions/workflows/node.js.yml/badge.svg)](https://github.com/eiurur/kkst/actions/workflows/node.js.yml)
 
 scribble code.
 
